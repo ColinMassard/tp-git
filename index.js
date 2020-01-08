@@ -1,5 +1,5 @@
-function main() {
-  return "Corrige moi";
+function main () {
+  return 'Joyeux Noel'
 }
 
-exports.main = main;
+exports.main = main

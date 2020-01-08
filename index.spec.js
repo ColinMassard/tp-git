@@ -1,5 +1,5 @@
-const assert = require("assert");
+const assert = require('assert')
 
-const { main } = require("./index");
+const { main } = require('./index')
 
-assert.strictEqual(main(), "Joyeux Noel");
+assert.strictEqual(main(), 'Joyeux Noel')
